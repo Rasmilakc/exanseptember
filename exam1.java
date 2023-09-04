@@ -9,7 +9,7 @@ public class exam1 {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Rasmila\\Desktop\\chromedriver\\chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		 
-		driver.get("driver.get(\"http://www.webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html\");"); 
+		driver.get(\"http://www.webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html\"); 
 		
 		
 	
